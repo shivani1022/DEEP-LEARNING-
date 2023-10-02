@@ -1,6 +1,8 @@
 # DEEP-LEARNING-
 Comment Toxicity Detection Using NLP
 
+Project Demo link : https://www.linkedin.com/posts/shivani-kadam-_python-deeplearning-tensorflow-activity-7112432030138707968-F7Fm?utm_source=share&utm_medium=member_desktop
+
 The goal is to build a model that can accurately predict whether a given comment contains toxic content. Here are the key highlights:
 
 1)The code begins by installing the necessary dependencies using pip. The required libraries, including TensorFlow, pandas, matplotlib, and scikit-learn, are installed.
